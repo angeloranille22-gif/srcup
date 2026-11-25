@@ -1,3 +1,5 @@
+ Copyright 2026(c) Ellinar Olegna and Galeno
+
 # Dedaub srcup
 
 `srcup` is Dedaub's utility CLI for uploading your project's code into the Dedaub analysis engine.
